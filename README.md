@@ -9,5 +9,5 @@ ALTHOUGH PUBLIC, THIS REPOSITORY SERVES MERELY AS MY OWN STUDY REFERENCE.
 __PLEASE DO NOT INCLUDE THEM IN YOUR OWN SUBMISSIONS.__  
 
 # GRADES ACHIEVED
-![alt text](https://github.com/chien916/FALL2021_ECE0301/blob/main/_g.jpg?raw=true)
+![alt text](https://github.com/chien916/FALL2020_ECE0301/blob/main/_g.jpg?raw=true)
 
