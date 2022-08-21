@@ -1,0 +1,12 @@
+---
+:id: 65928446
+:submitters:
+- :name: Yinhao Qian
+  :email: yiq25@pitt.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-02-21 17:55:10.457851000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-02-21 09:55:10.457851000 Z
+:status: processed
+:score: 100.0
